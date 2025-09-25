@@ -1,7 +1,3 @@
-# Please complete the following:
-# Your First name and Last Name: Ece Goksu
-# Your Student ID: 261138642
-
 #Import libraries
 import math
 import random
