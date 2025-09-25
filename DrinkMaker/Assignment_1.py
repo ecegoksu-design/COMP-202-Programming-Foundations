@@ -1,9 +1,3 @@
-# Please complete the following:
-# First and last name: Ece Goksu
-# Your Student ID: 261138642
-
-# Write your program here: 
-
 # Greet customers
 print("Welcome to the DIY Tea & Juice Maker!")
 
