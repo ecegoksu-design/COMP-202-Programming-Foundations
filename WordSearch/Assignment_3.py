@@ -1,8 +1,3 @@
-# 1. Please complete the following:
-#   Your First name and Last Name: Ece Goksu
-#   Your Student ID: 261138642
-
-# 2. Write your program here:
 #Global Constants
 BACKWARD = -1
 FORWARD = 1
